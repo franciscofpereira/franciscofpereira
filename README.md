@@ -10,6 +10,6 @@ Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineer
 - 🌱 Open to contributing to **open-source projects** and collaborative development  
 
 ## 📫 Contact Me
-- Email: [franciscoferropereira@gmail.com]  
+- Email: franciscoferropereira@gmail.com  
 - LinkedIn: [francisco-ferro-pereira](https://www.linkedin.com/in/francisco-ferro-pereira/)
   
