@@ -1,5 +1,14 @@
-# Profile Stats:
+# Hi there 👋, I'm [Francisco]!
 
-![My stats:](https://github-readme-stats.vercel.app/api?username=franciscofpereira&show_icons=true&theme=algolia)
+Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineering at DTU**, specializing in **Artificial Intelligence, Algorithms, and Cybersecurity**. I’m passionate about **Machine Learning, Data Science, Software Development, and Cybersecurity**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofpereira&layout=compact&theme=algolia)
+---
+
+## 🚀 About Me
+- 🎓 Currently pursuing my Master’s at **DTU**  
+- 💻 Interested in full-stack development, machine learning,data science and cybersecurity    
+- 🌱 Open to contributing to **open-source projects** and collaborative development  
+
+## 📫 Contact Me
+- Email: [franciscoferropereira@gmail.com]  
+- LinkedIn: your-linkedin-url]  
