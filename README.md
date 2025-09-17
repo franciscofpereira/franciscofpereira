@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Francisco]!
+# Hi there 👋, I'm Francisco!
 
 Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineering at DTU**, specializing in **Artificial Intelligence, Algorithms, and Cybersecurity**. I’m passionate about **Machine Learning, Data Science, Software Development, and Cybersecurity**.
 
@@ -11,4 +11,5 @@ Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineer
 
 ## 📫 Contact Me
 - Email: [franciscoferropereira@gmail.com]  
-- LinkedIn: your-linkedin-url]  
+- LinkedIn: [francisco-ferro-pereira](https://www.linkedin.com/in/francisco-ferro-pereira/)
+  
