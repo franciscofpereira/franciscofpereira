@@ -6,7 +6,7 @@ Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineer
 
 ## 🚀 About Me
 - 🎓 Currently pursuing my Master’s at **DTU**  
-- 💻 Interested in full-stack development, machine learning,data science and cybersecurity    
+- 💻 Interested in Full-stack Development, Machine Learning, Data Science and Cybersecurity    
 - 🌱 Open to contributing to **open-source projects** and collaborative development  
 
 ## 📫 Contact Me
