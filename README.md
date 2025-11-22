@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Francisco!
 
-Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineering at DTU**, specializing in Artificial Intelligence, Algorithms, and Cybersecurity. I’m passionate about Machine Learning, Data Science, Software Development, and Cybersecurity.
+Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineering at DTU**, specializing in Artificial Intelligence, Algorithms, and Cybersecurity. I’m passionate about Machine Learning, Data Science, Software Development.
 
 ---
 
