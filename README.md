@@ -1,13 +1,12 @@
 # Hi there 👋, I'm Francisco!
 
-Welcome to my GitHub! I am a **Master’s student in Computer Science & Engineering at DTU**, specializing in Artificial Intelligence, Algorithms. I’m passionate about Machine Learning, Data Science, Software Development.
+I am a **Master’s student in Human-Centered Artificial Intelligence at DTU**. I’m passionate about Machine Learning, Data Science.
 
 ---
 
 ## 🚀 About Me
 - 🎓 Currently pursuing my Master’s at **DTU**  
-- 💻 Interested in Full-stack Development, Machine Learning, Data Science and Cybersecurity    
-- 🌱 Open to contributing to **open-source projects** and collaborative development  
+- 💻 Interested in Machine Learning and Data Science        
 
 ## 📫 Contact Me
 - Email: franciscoferropereira@gmail.com  
