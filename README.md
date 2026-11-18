@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Francisco!
 
-I am a **Master’s student in Human-Centered Artificial Intelligence at DTU**. I’m passionate about Machine Learning, Data Science.
+I am a **Master’s student in Human-Centered Artificial Intelligence at DTU**. I’m passionate about Machine Learning and Data Science.
 
 ---
 
